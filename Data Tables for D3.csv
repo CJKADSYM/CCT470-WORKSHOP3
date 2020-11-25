@@ -1,26 +1,26 @@
-﻿Country,Province,University,City,Undergrad enrollment
-Canada,Alberta,McEwan University,Edmonton,12693
-Canada,Alberta,University of Alberta,Edmonton,29814
-Canada,Alberta,University of Calgary,Calgary,26182
-Canada,Alberta,University of Lethbridge,Lethbridge,7649
-Canada,British Columbia,Simon Fraser,Burnaby,12919
-Canada,British Columbia,Thompson Rivers University,Kamloops,8317
-Canada,British Columbia,University of British Columbia,Vancouver,38417
-Canada,British Columbia,University of Victoria,Victoria,14631
-Canada,Manitoba,University of Winnipeg,Winnipeg,7542
-Canada,Manitoba,University of Manitoba,Winnipeg,22456
-Canada,Nova Scotia,Dalhousie University,Halifax,13615
-Canada,Nova Scotia,Saint Mary's University,Halifax,5474
-Canada,Ontario,McMaster University,Hamilton,28900
-Canada,Ontario,Queen's University,Kingston,21400
-Canada,Ontario,University of Ottawa,Ottawa,31700
-Canada,Ontario,University of Toronto,Toronto,65600
-Canada,Ontario,University of Waterloo,Waterloo,33100
-Canada,Ontario,York University,Toronto,42900
-Canada,Quebec,Concordia University,Montreal,21278
-Canada,Quebec,McGill University,Montreal,23907
-Canada,Quebec,Universite de Montreal,Montreal,25689
-Canada,Quebec,Universite du Sherbrooke,Sherbrooke,11973
-Canada,Quebec,Universite Laval,Laval,22155
-Canada,Saskatchewan,University of Regina,Regina,9822
-Canada,Saskatchewan,University of Saskatchewan,Saskatoon,16805
+﻿id,value,color
+Canada.Alberta.McEwan University.Edmonton,12693,#808080
+Canada.Alberta.University of Alberta.Edmonton,29814,#808081
+Canada.Alberta.University of Calgary.Calgary,26182,#808082
+Canada.Alberta.University of Lethbridge.Lethbridge,7649,#808083
+Canada.British Columbia.Simon Fraser.Burnaby,12919,#808084
+Canada.British Columbia.Thompson Rivers University.Kamloop,8317,#808085
+Canada.British Columbia.University of British Columbia.Vancouver,38417,#808086
+Canada.British Columbia.University of Victoria.Victoria,14631,#808087
+Canada.Manitoba.University of Winnipeg.Winnipeg,7542,#808088
+Canada.Manitoba.University of Manitoba.Winnipeg,22456,#808089
+Canada.Nova Scotia.Dalhousie University.Halifax,13615,#808090
+Canada.Nova Scotia.Saint Mary's University.Halifax,5474,#808091
+Canada.Ontario.McMaster University.Hamilton,28900,#808092
+Canada.Ontario.Queen's University.Kingston,21400,#808093
+Canada.Ontario.University of Ottawa.Ottawa,31700,#808094
+Canada.Ontario.University of Toronto.Toronto,33100,#808095
+Canada.Ontario.University of Waterloo.Waterloo,65600,#808096
+Canada.Ontario.York University.Toronto,42900,#808097
+Canada.Quebec.Concordia University.Montreal,21278,#808098
+Canada.Quebec.McGill University.Montreal,23907,#808099
+Canada.Quebec.Universite de Montreal.Montreal,25689,#808100
+Canada.Quebec.Universite du Sherbrooke.Sherbrooke,11973,#808101
+Canada.Quebec.Universite Laval.Laval,22155,#808102
+Canada.Saskatchewan.University of Regina.Regina,9822,#808103
+Canada.Saskatchewan.University of Saskatchewan.Saskatoon,16805,#808104
